@@ -2,4 +2,5 @@ build
 node_modules
 input
 *.lua
+*.log
 node_modules
